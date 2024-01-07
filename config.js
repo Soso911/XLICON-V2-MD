@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Soso⁹¹¹'
+global.botname = 'XLICON-V2'
 global.premium = 'true'
 global.packname = 'Soso⁹¹¹' 
 global.author = 'Soso⁹¹¹' 
